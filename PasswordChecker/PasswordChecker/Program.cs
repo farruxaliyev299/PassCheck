@@ -7,7 +7,7 @@ namespace PasswordChecker
         static void Main(string[] args)
         {
             User user1 = new User();
-            user1.Fullname = "Ferrux Aliyev";
+            user1.Fullname = "Dumbuw Dumbuwzade";
             user1.Password = "Dumbuw2022";
             user1.Email = "dumbuw2022@gmail.com";
 
